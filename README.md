@@ -39,4 +39,4 @@ You might also want to install VsCode to help you edit code as text files.
 
 ## Seeking Assistance
 
-Students who have questions about this project outside of the lab time are invited to ask them in the course's Discord channel or during instructor's or TL's office hours.
+Students who have questions about this project outside of class or lab time are invited to ask them in the course's Discord channel or during instructor's or TL's office hours.
